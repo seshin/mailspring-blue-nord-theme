@@ -1,0 +1,12 @@
+{
+  "name": "mailspring-blue-nord-theme",
+  "title": "a dark bluish nord theme",
+  "displayName": "Nord-Blue",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "A Nordic Theme for Mailspring!",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
